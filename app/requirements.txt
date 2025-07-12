@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+pydantic
+hl7apy     # for future Athena HL7 parser
